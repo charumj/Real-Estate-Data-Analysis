@@ -1,0 +1,194 @@
+name,city,bedroom,status,location,price_range1,bedroom2,price_range2,bedroom3,price_range3,owner,owner_name,sq.ft_min,sq_ft_max,price_per_sqft
+M3M Mansion,delhi,3,"Jan,2027","Sector 113, Gurgaon",39900,4,43300,5,5.9,Builder,Sobha Ltd,1800,2500,19.34883721
+Ganga Anantam,delhi,3,"Jun,2029","Sector 85, Gurgaon",33100,4,41900,5,6.19,Builder,Tata housing,1800,2500,17.44186047
+Godrej Vrikshya,delhi,3,"Mar, 2025","Sector 103, Gurgaon",52500,4,77700,,,Builder,Godrej Properties,2000,2500,28.93333333
+Ashiana Amarah,delhi,3,"Jun,2026","Sector 93, Gurgaon",25000,4,37300,,,Builder,Godrej Properties,1600,2500,15.19512195
+Signature Global Daxin Vistas,delhi,3,"Jun,2010","Sohna, Gurgaon",19500,,32032.6087,,,Builder,Tata housing,1500,1834.765625,13
+Keystone Seasons,delhi,3,"May,2025","Sector 77, Gurgaon",30000,4,39300,,,Builder,Emaar India,1350,1834.765625,22.22222222
+M3M Antalya Hills,delhi,2,"Mar,2023","Sector 79, Gurgaon",17100,4,30800,,,Builder,Emaar India,1050,1834.765625,16.28571429
+Smartworld One DXP,delhi,2,"Nov,2023","Sector 113, Gurgaon",35800,3,53000,,,Builder,Unitech Group,1200,1800,29.6
+Elite X,delhi,3,"May,2025","Sector 10 Greater Noida West, Greater Noida",18500,3,37900,4,6.79,Builder,Omaxe Ltd,1500,2500,14.1
+Signature Global Titanium SPR,delhi,3,"Jun,2027","Sector 71, Gurgaon",50000,4,66100,,,Builder,Godrej Properties,2000,1834.765625,25
+Silverglades The Legacy,delhi,3,"Aug, 2026","Sector 63A, Gurgaon",64400,4,102000,5,14.91,Builder,Sobha Ltd,2200,1834.765625,29.27272727
+Eldeco La Vida Bella,delhi,2,"Dec,2025","Greater Noida West, Greater Noida",14300,3,25000,5,3.96,Builder,Godrej Properties,1200,1834.765625,11.91666667
+Tulip Crimson,delhi,4,"Jul,2025","Sector 70, Gurgaon",100000,3,19900,,,Builder,Omaxe Ltd,3000,1834.765625,33.33333333
+Sam Palm Olympia Phase 2,delhi,2,"Jan,2026","Sector 16C, Greater Noida",9400,3,19900,,,Builder,Omaxe Ltd,1200,1834.765625,7.833333333
+Experion Elements,delhi,3,"Jun,2027","Sector 45, Noida",49600,4,59300,,,Builder,Tata Housing,1800,1834.765625,27.55555556
+M3M Altitude,delhi,4,"Jan, 2027","Sector 65, Gurgaon",87200,5,100300,,,Builder,Unitech Group,3000,1834.765625,29.06666667
+Conscient Parq,delhi,3,"Dec,2024","Sector 80, Gurgaon",32000,4,55800,,,Builder,Sobha Ltd,1500,1834.765625,21.33333333
+Gaur NYC Residences,delhi,4,"Dec,2025","Wave City, Ghaziabad",22100,5,50000,,,Builder,Tata housing,2500,1834.765625,8.84
+ATS Sanctuary 105,delhi,3,"Jun,2025","Sector 105, Gurgaon",24000,4,36400,,,Builder,Emaar India,1500,1834.765625,16
+Sobha Altus,delhi,3,"Mar,2025","Sector 106, Gurgaon",16300,4,86100,,,Builder,Emaar India,1800,1834.765625,9.055555556
+Master Orchard Estate,kolkata,2,"Dec, 2020","Madhyamgram, Kolkata",4500,3,6100,,,Builder,Master Properties,1000,1200,4.818181818
+Merlin Rise,kolkata,2,"Dec, 2027","Rajarhat, Kolkata",5500,3,32032.6087,,,Builder,Merlin Group,1000,1200,5.5
+Merlin Serenia,kolkata,2,"Jun, 2029","BT Road, Kolkata",6400,3,10300,4,1.43,Builder,Merlin Group,1200,1500,6.185185185
+Joyville Western Height,kolkata,2,"Mar, 2025","Santragachi, Kolkata",4400,3,32032.6087,,,Builder,Joyville by Shapoorji Pallonji,1200,1500,3.666666667
+DTC Sojon,kolkata,2,"Dec, 2027","Joka, Kolkata",5200,3,8000,4,1,Builder,DTC Developer,1000,1600,5.076923077
+GPS Meena Maple Phase 1,kolkata,2,"Jan, 2027","New Town, Kolkata",3700,,32032.6087,,,Builder,GPS Group,800,1834.765625,4.625
+DTC Capital City,kolkata,2,"Dec, 2027","Rajarhat, Kolkata",4500,3,7900,4,1.05,Builder,DTC Developer,1000,1500,4.96
+JCSV Pride,kolkata,2,"Aug, 2024","8th Phase JP Nagar, Bangalore",8900,3,15600,,,Builder,JCSV Builders,1200,1400,9.423076923
+Cellesta,kolkata,3,"Jun, 2030","Lake Town, Kolkata",15000,4,18900,,,Builder,Shriji,2000,2200,8.071428571
+Merlin Avana,kolkata,2,"Dec, 2027","Tollygunge, Kolkata",6500,3,13500,4,1.52,Builder,Merlin Group,1200,1600,7.142857143
+Elevate Godrej Se7en,kolkata,2,"Oct, 2025","Joka, Kolkata",12300,3,20800,,,Builder,Godrej Properties,1000,1200,15.04545455
+Siddha Serena,kolkata,2,"Dec, 2028","New Town, Kolkata",9200,3,12500,4,1.6,Builder,Siddha Group,1200,1600,7.75
+Vinayak Amara,kolkata,3,"Jul, 2029","New Town, Kolkata",15500,4,20600,,,Builder,Vinayak Group Kolkata,1200,1500,13.37037037
+Urban Vista Phase 1,kolkata,2,"Dec, 2026","Rajarhat, Kolkata",7300,3,7700,,,Builder,Loharuka Group,1000,1200,6.818181818
+Bhawani Porshi Nagar Uttarpara,kolkata,1,"Dec, 2028","Konnagar, Kolkata",2000,2,3800,3,0.53,Builder,Bhawani Group,800,1000,3.222222222
+Merlin Oikyo,kolkata,1,"Dec, 2025","Baruipur, EM Bypass",1000,2,2700,3,0.4,Builder,Merlin Group,800,1000,2.055555556
+Merlin Isle,kolkata,2,"Dec, 2027","Picnic Garden, EM Bypass",8000,3,10200,,,Builder,Merlin Group,800,1000,10.11111111
+Eden Roopkatha,kolkata,1,"Jun, 2028","Baruipur, EM Bypass",1900,2,3000,3,0.39,Builder,Eden Group,600,800,3.5
+Swayam City,kolkata,1,"Dec, 2024","Joka, Kolkata",1900,2,2700,3,0.38,Builder,New Age Nirman,600,800,3.285714286
+Belani Zest,kolkata,2,"Mar, 2025","Rajarhat, Kolkata",8400,3,11100,,,Builder,Belani Group,800,1000,10.83333333
+Rishi Ventoso Phase 2,kolkata,2,"Mar, 2029","Madhyamgram, Kolkata",5900,3,8000,,,Builder,Rishi Group,800,1000,7.722222222
+Magnolia Vishnupriya,kolkata,2,"Dec, 2026","Baruipur, EM Bypass",3500,3,4500,,,Builder,Magnolia Infrastructure Development,500,800,6.153846154
+Southern Woods,kolkata,2,"Oct, 2026","Garia, Kolkata",7700,3,9100,,,Builder,Lumberman Wood,800,1000,9.333333333
+Natural City Madhyamgram,kolkata,2,"Mar, 2029","Madhyamgram, Kolkata",4300,3,5600,4,0.7,Builder,Natural Group,800,1000,5.5
+Bhawani Inara,kolkata,2,"Dec, 2026","Rajarhat, Kolkata",16000,4,20300,,,Builder,Bhawani Group,1000,1200,16.5
+Aadhya Arambh,ahmedabad,2,"Dec, 2026","Ghatlodia, Ahmedabad",13500,,32032.6087,,,Builder,Shikhar Projects,1000,1834.765625,13.5
+Shivalaya 24,ahmedabad,3,"Nov, 2025","Chandkheda, Ahmedabad",12700,,32032.6087,,,Builder,Neeldev Buildcon,950,1834.765625,13.36842105
+The Golden County,ahmedabad,2,"Since Jun, 2022","Greater Thol, Rancharda, Ahmedabad",23800,,32032.6087,,,Builder,The Golden County,1200,1834.765625,19.83333333
+Karmabhumi 1,ahmedabad,2,"Since Jan, 2012","Rancharda, Ahmedabad",26400,,32032.6087,,,Builder,Karmabhumi,1300,1834.765625,20.30769231
+The Sovereign,ahmedabad,4,"Dec, 2027","Thaltej Shilaj Road, Ahmedabad",43000,,32032.6087,,,Builder,Ashima Limited,2000,1834.765625,21.5
+Tulsi Paradise,ahmedabad,3,"May, 2025","Motera, Ahmedabad",7100,,32032.6087,,,Builder,Shyam Group Motera Ahmedabad,900,1834.765625,7.888888889
+Vandematram Sky 100,ahmedabad,3,"May, 2026","Thaltej, Ahmedabad",16300,,32032.6087,,,Builder,Vandematram Infra,1100,1834.765625,14.81818182
+Suryansh Sanidhya Shivalaya,ahmedabad,2,"Jun, 2025","Sarkhej, Sarkhej Okaf, Ahmedabad",3900,,32032.6087,,,Builder,Sun Buildcon,850,1834.765625,4.588235294
+Super Shaligram,ahmedabad,3,"Mar, 2029","Gota, Ahmedabad",15400,,32032.6087,,,Builder,Shaligram Group,1300,1834.765625,11.84615385
+Rajyash Regius,ahmedabad,3,"Dec, 2026","Bopal, Ahmedabad",14000,,32032.6087,,,Builder,Rajyash Group,1200,1834.765625,11.66666667
+Times 104,ahmedabad,4,"Oct, 2025","Thaltej, Ahmedabad",35000,,32032.6087,,,Builder,Times Infrabuild,1500,1834.765625,23.33333333
+Anamika High Point,ahmedabad,4,"Jun, 2030","Bodakdev, Ahmedabad",35800,,32032.6087,,,Builder,Constera Realty,1700,1834.765625,21.05882353
+Shagun Seleste,ahmedabad,3,"Oct, 2026","Chandkheda, Ahmedabad",12700,,32032.6087,,,Builder,Shagun Group,1100,1834.765625,11.54545455
+Maitri Elevate,ahmedabad,3,"Dec, 2028","Koteshwar, Ahmedabad",13700,,32032.6087,,,Builder,Maitri Group Ahmedabad,1000,1834.765625,13.7
+Shree Vishnudhara Essence,ahmedabad,3,"Jun, 2025","Thaltej, Ahmedabad",12500,,32032.6087,,,Builder,Vishnudhara Paradise LLP,950,1834.765625,13.15789474
+Shilp Residency,ahmedabad,3,"Jun, 2027","Gota, Ahmedabad",23000,,32032.6087,,,Builder,Shilp Group,1400,1834.765625,16.42857143
+Kalasagar Skyline,ahmedabad,4,"Apr, 2028","Shahibaug, Ahmedabad",30000,,32032.6087,,,Builder,V3 Construction Company,1600,1834.765625,18.75
+Ashtvinayak Uptown,ahmedabad,2,"Apr, 2023","Motera, Ahmedabad",5400,,32032.6087,,,Builder,Bhoomi Enterprise Gandhinagar,900,1834.765625,6
+Archway by Adani Realty,ahmedabad,3,"Mar, 2026","Jagatpur, Ahmedabad",23000,,32032.6087,,,Builder,Adani Realty,1200,1834.765625,19.16666667
+Adani Embrace,ahmedabad,3,"Jul, 2027","Vaishnodevi Circle, Ahmedabad North",28700,,32032.6087,,,Builder,Adani Realty,1300,1834.765625,22.07692308
+Rameshwar Sky,ahmedabad,2,"Dec, 2027","Visalpur, Ahmedabad",3800,,32032.6087,,,Builder,Rameshwar Developers,800,1834.765625,4.75
+Madhav Oeuvre 2,ahmedabad,4,"Jun, 2025","Bodakdev, Ahmedabad",85200,,32032.6087,,,Builder,Madhav Avenue LLP,2200,1834.765625,38.72727273
+Cloud 9,ahmedabad,3,"Sep, 2024","Satellite, Ahmedabad",17900,,32032.6087,,,Builder,Vivan Infrastructure and Addor Realty,1100,1834.765625,16.27272727
+Anjney Maruti 360,ahmedabad,4,"Dec, 2028","Bodakdev, Ahmedabad",77200,,32032.6087,,,Builder,Anjney Finebuild,1500,1834.765625,51.46666667
+Province By Sangath IPL,ahmedabad,3,"Dec, 2025","Zundal, Ahmedabad",8300,,32032.6087,,,Builder,Sangath Pro Llp,800,1834.765625,10.375
+Tulive Azpire,Chennai,2,"Mar, 2026","West Tambaram, Chennai",4900,3,6000,,,Builder,Tulive Developers,1000,1200,4.954545455
+Navins Starwood Towers 2,Chennai,2,"Dec, 2020","Medavakkam, Chennai",10300,3,12300,,,Builder,Navin's,1200,1400,8.692307692
+Chamundeeswary Chang Royale,Chennai,3,"Aug, 2025","Guindy, GST Road",31800,,32032.6087,,,Builder,Chamundeeswary Estates,3300,1834.765625,9.636363636
+Risland The Ace,Chennai,1,"Dec, 2024","Perungudi, Chennai",5300,2,10900,,,Builder,Risland India,1100,1834.765625,4.818181818
+MP Golden Heights,Chennai,2,"Jun, 2027","Kovur, Chennai",6600,3,7600,,,Builder,MP Developers,1000,1200,6.454545455
+SS Square Swasthika,Chennai,2,"Dec, 2025","Thiruverkadu, Chennai",5300,,32032.6087,,,Builder,SS Square Property Developers,900,1834.765625,5.888888889
+AlamoXsreal Tuscany,Chennai,1,"Dec,2025","Chettipunniyam, Chennai",3000,,32032.6087,,,Builder,Alamo XS Real,800,1834.765625,3.75
+Purva Soukhyam,Chennai,3,"Dec, 2027","Guduvancheri, Chennai",10700,,32032.6087,,,Builder,Purva Land,1400,1834.765625,7.642857143
+Pearl Queens Park,Chennai,2,"Jul, 2024","Medavakkam, Chennai",7800,3,8600,,,Builder,Pearl Constructions,1200,1600,5.857142857
+Navins Hanging Gardens,Chennai,2,"Mar, 2024","Valasaravakkam, Chennai",15600,3,23800,,,Builder,Navin's,1500,1900,11.58823529
+Royale Mriga by Thigazhvan Estate,Chennai,3,"Sep, 2024","Madipakkam, Chennai",21800,4,25200,,,Builder,Thigazhvan,1500,2000,13.42857143
+Pearl Araliya,Chennai,3,"Jan, 2026","Perumbakkam, Chennai South",7700,,32032.6087,,,Builder,Pearl Constructions,1400,1834.765625,5.5
+CMN Garden Luxury Villas,Chennai,3,"Nov, 2022","Porur, Chennai",21100,,32032.6087,,,Builder,Jehovah Builders,2500,1834.765625,8.44
+Navins Hillview Avenue,Chennai,2,,"Thirumudivakkam, Chennai",7200,3,9000,,,Builder,Navin's,1000,1400,6.75
+Maple Sky Residences at Navins Starwood,Chennai,2,"Dec, 2024","Medavakkam, Chennai",10500,,32032.6087,,,Builder,Navin's,1600,1834.765625,6.5625
+VGN Highland,Chennai,2,"Jan, 2024","Tharapakkam, Chennai",8600,,32032.6087,,,Builder,VGN Homes,1900,1834.765625,4.526315789
+Pearl Ishaan,Chennai,3,"Jun, 2026","K K Nagar, Nesapakkam, Chennai",28900,,32032.6087,,,Builder,Pearl Constructions,3500,1834.765625,8.257142857
+Casagrand Cloud9,Chennai,2,"Oct, 2025","Sholinganallur, Chennai",9000,3,12500,,,Builder,Casagrand,1500,1800,6.515151515
+Casagrand Majestica,Chennai,1,"Oct, 2025","Manapakkam, Chennai",9000,2,11200,,,Builder,Casagrand,1000,1200,9.181818182
+Casagrand Linore,Chennai,1,"Apr, 2026","Kattupakkam, Chennai",6000,2,8000,,,Builder,Casa Grande Civil Engineering,1000,1200,6.363636364
+Kochar Jewel,Chennai,2,"Apr, 2026","Velachery, Chennai South",23400,3,29100,,,Builder,Kochar Homes,2000,2500,11.66666667
+Elite Akash Garden Guduvancheri,Chennai,1,"May, 2024","Guduvancheri, Chennai",15700,,32032.6087,,,Builder,Elite Estate,2500,1834.765625,6.28
+Casagrand Suncity,Chennai,2,"Jul, 2027","Kelambakkam, Chennai",5700,3,8900,,,Builder,Casagrand,1000,1400,6.083333333
+Casagrand Flagship,Chennai,1,"Sep, 2025","Pallikaranai, Chennai",9000,2,14800,,,Builder,Casagrand,1000,1300,10.34782609
+Casagrand Mercury,Chennai,2,"Sep, 2027","Perambur, Chennai",10300,3,16200,,,Builder,Casagrand,1000,1400,11.04166667
+Keya Around The Life,banglore,3,"Nov, 2024","Whitefield, Bangalore",18500,4,25000,,,Builder,Keya Homes,2500,3000,7.909090909
+Prestige Raintree Park,banglore,3,"Jul, 2027","Whitefield, Bangalore",32900,4,40700,5,5.07,Builder,Prestige Group,3000,5500,8.658823529
+Folium by Sumadhura Phase 3,banglore,3,"Dec, 2026","Whitefield, Bangalore",24200,4,36500,,,Builder,Sumadhura Group,3500,4000,8.093333333
+Trifecta Vanto,banglore,2,"Aug, 2027","Sarjapur Road, Bangalore",11500,3,13400,,,Builder,Trifecta Projects,1800,2200,6.225
+Sarang by Sumadhura Phase 1,banglore,3,"Dec, 2026","Whitefield, Bangalore",19500,4,26000,,,Builder,Sumadhura Group,2500,3000,8.272727273
+Bhartiya Nikoo Homes 5,banglore,2,"Aug, 2029","Thanisandra, Bangalore",13100,3,20800,4,2.55,Builder,Bhartiya Group,1500,2500,8.475
+United Sai Silicon Heights,banglore,2,"Dec, 2025","Whitefield, Bangalore",16500,3,23800,4,2.9,Builder,United Developers Bengaluru,2000,2700,8.574468085
+Mana Skandas The Right Life,banglore,3,"Dec, 2028","Sarjapur Road, Bangalore",19700,4,21300,,,Builder,Neo Build Ventures,2500,3000,7.454545455
+Godrej Woodscapes,banglore,3,"Jan, 2027","Budigere Cross, Bangalore",25700,4,31500,,,Builder,Godrej Properties,4500,5000,6.021052632
+Brigade Valencia,banglore,1,"Dec, 2027","Electronic City, Bangalore",6800,2,13300,3,1.66,Builder,Brigade Group,1000,1700,7.444444444
+Assetz Canvas and Cove,banglore,2,"Mar, 2025","Begur, Bangalore",12300,3,24200,,,Builder,Assetz Property Group,2500,2900,6.759259259
+Modern Spaaces Engrace Vista,banglore,3,"Jun, 2027","Sarjapur Road, Bangalore",15600,,32032.6087,,,Builder,Modern Spaaces,3000,1834.765625,5.2
+Raj High Gardens,banglore,2,"Apr, 2028","Hosur Road, Bangalore",11000,3,14900,,,Builder,SNN Raj Corp,2500,2800,4.886792453
+Provident Botanico,banglore,2,"Sep, 2027","Whitefield, Bangalore",10200,3,14900,,,Builder,Provident Housing,1000,1700,9.296296296
+RRL Palacio,banglore,2,"Apr, 2025","Sarjapur Road, Bangalore",8100,3,10000,,,Builder,RRL Builders and Developers,1500,1800,5.484848485
+Mana Dale,banglore,3,"Dec, 2032","Sarjapur Road, Bangalore",18200,4,21300,,,Builder,Mana Projects,2000,2700,8.404255319
+JCSV Pride,banglore,2,"Aug, 2024","8th Phase JP Nagar, Bangalore",8900,3,15600,,,Builder,JCSV Builders,2500,3000,4.454545455
+Baldota Thumbprint,banglore,3,"Apr, 2025","Vidyaranyapura, Bangalore",26400,4,39500,,,Builder,Baldota Brothers,4000,5000,7.322222222
+Godrej Park Retreat,banglore,1,"Feb, 2027","Sarjapur Road, Bangalore",9000,2,16000,3,2.19,Builder,Godrej Properties,1000,1800,8.928571429
+Concorde Antares,banglore,2,"Dec, 2027","Vidyaranyapura, Bangalore",14300,3,17800,4,2.09,Builder,Concorde,2500,3000,5.836363636
+Brigade El Dorado,banglore,1,"Sep, 2024","Bagalur, Bangalore",8000,2,11100,3,1.77,Builder,Brigade Group,1500,2000,5.457142857
+Axis Oaklyn,banglore,2,"Mar, 2026","Yelahanka, Bangalore",10100,3,13000,,,Builder,Axis Concept,1500,2000,6.6
+Amrutha Platinum Towers,banglore,2,"Sep, 2024","Whitefield, Bangalore",13900,3,16500,,,Builder,Amrutha Rama Constructions,1500,2000,8.685714286
+Bhartiya City Nikoo Homes 6,banglore,1,"Sep, 2029","Kogilu, Bellari Road",10000,2,17900,3,3.32,Builder,Bhartiya Group,1500,2000,7.971428571
+Lodha Mirabelle,banglore,2,"Dec,2027","Hebbal, Bangalore",20000,3,26900,4,3.25,Builder,Lodha,2500,3000,8.527272727
+Sumadhuras Gardens By The Brook,hyderabad,2,"Sep, 2025","Rajendra Nagar, Hyderabad",9700,3,12800,,,Builder,Sumadhura Group,450,550,22.5
+Unnati Shree Rath Apartments,hyderabad,2,"Dec, 2025","Nizampet, Hyderabad",6100,3,11700,,,Builder,Unnati,300,500,22.25
+The Olympus,hyderabad,2,"Jun, 2026","Nanakramguda, Hyderabad",20000,3,25900,,,Builder,Sumadhura Group,900,1200,21.85714286
+Sattva Lake Ridge,hyderabad,3,"Jan, 2028","Kokapet, Hyderabad",38400,4,53800,,,Builder,Sattva Group,1500,1900,27.11764706
+Fortune Butterfly City,hyderabad,1,,"Kadthal, Hyderabad",3000,,32032.6087,,,Builder,Fortune Infra Developers,200,1834.765625,15
+Realplus Fuji Halcyon,hyderabad,4,"Dec, 2028","Jubilee Hills, Hyderabad",105100,5,140000,,,Builder,Realplus Homes,5000,9000,17.50714286
+Syamantaka Emerald Heights,hyderabad,2,"Dec, 2023","Bachupally, Hyderabad",7400,3,9600,,,Builder,Syamantaka Infra,300,400,24.28571429
+NSL Nakshatra,hyderabad,3,"Dec, 2028","KPHB, Kukatpally",24300,4,33300,,,Builder,NSL Infratech,900,1500,24
+Shiva Sai Lavista,hyderabad,2,"Nov, 2026","Nizampet, Hyderabad",9100,3,11800,,,Builder,Shiva Sai Constructions Hyderabad,500,600,19
+Sunshine Green Meadows,hyderabad,2,"Dec, 2025","Bachupally, Hyderabad",6400,3,8500,,,Builder,Sunshine Infra Telangana,300,400,21.28571429
+Pallavi Gardenia,hyderabad,2,,"Nagole, Ring Road",7200,3,11300,,,Builder,Pallavi Developers,300,500,23.125
+Radhey Skye,hyderabad,2,"Mar, 2026","Kollur, Hyderabad",10000,3,19200,,,Builder,Radhey Constructions,400,800,24.33333333
+Gamut Saraa City,hyderabad,3,"Dec, 2026","Attapur,Gudimalkapur, Hyderabad",18300,,32032.6087,,,Builder,Gamut India Projects,400,600,45.75
+ASBL Loft,hyderabad,3,"Dec, 2026","Gachibowli, Hyderabad",17800,,32032.6087,,,Builder,ASBL,700,800,25.42857143
+Swarga Sirulaseema II,hyderabad,2,"Feb, 2025","Shad nagar, Hyderabad",8900,,32032.6087,,,Builder,Swarga Seema Sandal Wood Farms,800,1834.765625,11.125
+Candeur Lakescape,hyderabad,2,"Apr, 2027","Kondapur, Hyderabad",13800,3,20700,,,Builder,Candeur Constructions,500,800,26.53846154
+Merlion Orchids,hyderabad,2,"Jul, 2026","Bachupally, Hyderabad",7600,3,10300,,,Builder,Merlion Builders,500,800,13.76923077
+Mahaveer Crystal Garden,hyderabad,3,"Dec, 2026","Attapur,Gudimalkapur, Hyderabad",22700,4,45300,,,Builder,Mahaveer Estate Projects,900,1200,32.38095238
+Lansum Elena,hyderabad,3,"Dec, 2028","Kokapet, Hyderabad",27100,4,39600,,,Builder,Lansum Enpoint Developers,1000,1500,26.68
+Iris by Raghava,hyderabad,4,"Sep, 2028","Gachibowli, Hyderabad",89200,,32032.6087,,,Builder,Raghava Projects,5900,1834.765625,15.11864407
+Aditya Athena,hyderabad,3,,"Shaikpet, Hyderabad",21900,,32032.6087,,,Builder,Sri Aditya Homes,1200,1834.765625,18.25
+Visions Arsha,hyderabad,2,"Oct, 2027","Tellapur, Hyderabad",10400,3,20200,,,Builder,Vision Infra Hyderabad,800,1000,17
+Bricks Marvella,hyderabad,2,"Mar, 2027","Tellapur, Hyderabad",11000,3,17300,,,Builder,Bricks Ramabhupal Projects LLP,800,1000,15.72222222
+Sansa County Sector 2,hyderabad,4,"Sep, 2027","Patancheru, Hyderabad",25000,,32032.6087,,,Builder,Auro Realty,1100,1600,22.72727273
+Supadha Gamya,hyderabad,3,"Jul, 2028","Tellapur, Hyderabad",21100,4,30100,,,Builder,Supadha Developers Private Limited,800,1000,28.44444444
+Sumadhuras Gardens By The Brook,hyderabad,2,"Sep, 2025","Rajendra Nagar, Hyderabad",9700,3,12800,,,Builder,Sumadhura Group,400,600,22.5
+Unnati Shree Rath Apartments,hyderabad,2,"Dec, 2025","Nizampet, Hyderabad",6100,3,11700,,,Builder,Unnati,300,600,19.77777778
+The Olympus,hyderabad,2,"Jun, 2026","Nanakramguda, Hyderabad",20000,3,25900,,,Builder,Sumadhura Group,800,1200,22.95
+Sattva Lake Ridge,hyderabad,3,"Jan, 2028","Kokapet, Hyderabad",38400,4,53800,,,Builder,Sattva Group,1500,1900,27.11764706
+Fortune Butterfly City,hyderabad,2,,"Kadthal, Hyderabad",3000,,32032.6087,,,Builder,Fortune Infra Developers,200,1834.765625,15
+Realplus Fuji Halcyon,hyderabad,4,"Dec, 2028","Jubilee Hills, Hyderabad",105100,5,140000,,,Builder,Realplus Homes,4700,9500,17.26056338
+Syamantaka Emerald Heights,hyderabad,2,"Dec, 2023","Bachupally, Hyderabad",7400,3,9600,,,Builder,Syamantaka Infra,300,600,18.88888889
+NSL Nakshatra,hyderabad,3,"Dec, 2028","KPHB, Kukatpally",24300,4,33300,,,Builder,NSL Infratech,900,1500,24
+Shiva Sai Lavista,hyderabad,2,"Nov, 2026","Nizampet, Hyderabad",9100,3,11800,,,Builder,Shiva Sai Constructions Hyderabad,400,600,20.9
+Sunshine Green Meadows,hyderabad,2,"Dec, 2025","Bachupally, Hyderabad",6400,3,8500,,,Builder,Sunshine Infra Telangana,300,500,18.625
+Pallavi Gardenia,hyderabad,2,,"Nagole, Ring Road",7200,3,11300,,,Builder,Pallavi Developers,300,600,20.55555556
+Radhey Skye,hyderabad,2,"Mar, 2026","Kollur, Hyderabad",10000,3,19200,,,Builder,Radhey Constructions,600,800,20.85714286
+Gamut Saraa City,hyderabad,3,"Dec, 2026","Attapur,Gudimalkapur, Hyderabad",18300,,32032.6087,,,Builder,Gamut India Projects,1000,1834.765625,18.3
+ASBL Loft,hyderabad,3,"Dec, 2026","Gachibowli, Hyderabad",17800,,32032.6087,,,Builder,ASBL,900,1834.765625,19.77777778
+Candeur Lakescape,hyderabad,2,"Apr, 2027","Kondapur, Hyderabad",13800,3,20700,,,Builder,Candeur Constructions,600,800,24.64285714
+Merlion Orchids,hyderabad,2,"Jul, 2026","Bachupally, Hyderabad",7600,3,10300,,,Builder,Merlion Builders,400,600,17.9
+Mahaveer Crystal Garden,hyderabad,3,"Dec, 2026","Attapur,Gudimalkapur, Hyderabad",22700,4,45300,,,Builder,Mahaveer Estate Projects,900,1700,26.15384615
+Lansum Elena,hyderabad,3,"Dec, 2028","Kokapet, Hyderabad",27000,4,39600,,,Builder,Lansum Enpoint Developers,1100,1700,23.78571429
+Iris by Raghava,hyderabad,4,"Sep, 2028","Gachibowli, Hyderabad",89200,,32032.6087,,,Builder,Raghava Projects,5900,1834.765625,15.11864407
+Aditya Athena,hyderabad,3,,"Shaikpet, Hyderabad",21900,,32032.6087,,,Builder,Sri Aditya Homes,1200,1834.765625,18.25
+Visions Arsha,hyderabad,2,"Oct, 2027","Tellapur, Hyderabad",10400,3,20200,,,Builder,Vision Infra Hyderabad,800,1000,17
+Bricks Marvella,hyderabad,2,"Mar, 2027","Tellapur, Hyderabad",11000,3,17300,,,Builder,Bricks Ramabhupal Projects LLP,500,700,23.58333333
+Sansa County Sector 2,hyderabad,4,"Sep, 2027","Patancheru, Hyderabad",25000,,32032.6087,,,Builder,Auro Realty,1600,1834.765625,15.625
+Supadha Gamya,hyderabad,3,"Jul, 2028","Tellapur, Hyderabad",21100,4,30100,,,Builder,Supadha Developers Private Limited,800,1600,21.33333333
+Rustomjee Crown,mumbai,3,"Dec, 2024","Prabhadevi, Mumbai",137100,4,262500,,,Builder,Rustomjee,600,1834.765625,228.5
+Lodha Divino,mumbai,3,"Dec, 2027","Matunga, Mumbai",39600,3,60600,,,Builder,Lodha,1000,2500,28.62857143
+Forest Hills at The Prestige City,mumbai,2,"Dec, 2030","Mulund West, Mumbai",48400,4,83100,,,Builder,Prestige Group,1000,4000,26.3
+Rustomjee 180 Bayview,mumbai,3,"Jun, 2029","Matunga West, Mumbai",36700,3,62200,,,Builder,Rustomjee,1000,4000,19.78
+Godrej Avenue Eleven,mumbai,2,"Dec, 2028","Mahalaxmi, Mumbai",148700,,32032.6087,,,Builder,Godrej Properties,500,1834.765625,297.4
+Raheja Modern Vivarea,mumbai,4,"Mar, 2028","Mahalaxmi, Mumbai",177300,4,216800,,,Builder,K Raheja Corp,500,600,358.2727273
+Ajmera Manhattan,mumbai,3,"Jun, 2027","Wadala East, Mumbai",31600,3,44300,,,Builder,Ajmera Group,1500,2000,21.68571429
+Park Royale,mumbai,2,"Dec, 2026","Marol, Mumbai",25300,3,34000,,,Builder,Pride Group,900,1200,28.23809524
+Zynergy,mumbai,2,"Nov, 2024","Chembur, Mumbai",29400,,32032.6087,,,Builder,AHCL,1000,1834.765625,29.4
+Sagar Avenue 2,mumbai,2,,"Santacruz East, Mumbai",20000,2,22500,,,Builder,Sagar Shopping Developers,1000,1200,19.31818182
+Lodha Aura New Cuffe Parade,mumbai,1,"Jun, 2025","Wadala, Mumbai",50300,4,67700,,,Builder,Lodha,2000,2200,28.0952381
+Chandak Highscape City,mumbai,3,"Dec, 2030","Chembur, Mumbai",13400,2,20800,,,Builder,Chandak Group,900,1200,16.28571429
+Piramal Mahalaxmi,mumbai,1,"Dec, 2025","Mahalaxmi, Mumbai",56400,3,110800,,,Builder,Piramal Realty,2500,4000,25.72307692
+Sheth Montana,mumbai,2,"Dec, 2026","Mulund West, Mumbai",30700,3,45500,,,Builder,Ashwin Sheth Group,1500,2000,21.77142857
+Piramal Revanta,mumbai,2,"Nov, 2028","Mulund West, Mumbai",16500,2,33900,,,Builder,Piramal Realty,1200,1800,16.8
+Johaan Signature Isle,mumbai,1,,"Matunga East, Mumbai",26000,2,30000,,,Builder,Johaan Realtors,1200,1800,18.66666667
+Kalpataru Advay,mumbai,1,"Jun, 2030","Borivali West, Mumbai",25900,3,43000,,,Builder,Kalpataru,1000,1800,24.60714286
+Gagangiri Aerovista,mumbai,2,"Dec, 2024","Andheri East, Mumbai",13900,2,15600,,,Builder,Gagangiri Construction,1000,1400,12.29166667
+Lodha Regalia,mumbai,1,"Sep, 2027","Mulund East, Mumbai",22400,3,31900,,,Builder,Lodha,1200,1800,18.1
+One Meraki,mumbai,2,"Dec, 2026","Chembur, Mumbai",32000,3,76400,,,Builder,Meraki Habitats,1200,4000,20.84615385
+Leo Eminence,mumbai,2,"Dec, 2025","Bandra Kurla Complex, Mumbai",14500,2,23500,,,Builder,Leo Builders,900,1000,20
+Suraj Lumina,mumbai,1,"Dec, 2028","Mahim West, Mumbai",31000,3,45900,,,Builder,Suraj Estate,1200,2000,24.03125
+Auriga 9,mumbai,2,"Dec, 2029","Borivali West, Mumbai",20000,3,35900,,,Builder,Rajyog Projects and Bhatia Group,1200,1800,18.63333333
+Lodha Bellevue Tower 3,mumbai,2,"Dec, 2027","Mahalaxmi, Mumbai",60300,4,89900,,,Builder,Lodha,3000,4500,20.02666667

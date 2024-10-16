@@ -1,0 +1,22 @@
+name,city,bedroom,status,location,price range1,bedroom2,price range2,bedroom3,price range3,owner,owner name,sq.ft min,sq ft max,price_per_sqft,price_per_sqft_crores,price_range
+M3M Mansion,delhi,3,"Jan,2027","Sector 113, Gurgaon",3990000000000.0,4,4330000000.0,5,5900000000.0,Builder,Sobha Ltd,1800,2500.0,2216666.6666666665,2.2166666666666668e-07,Very High
+Ganga Anantam,delhi,3,"Jun,2029","Sector 85, Gurgaon",3310000000000.0,4,4190000000.0,5,6190000000.0,Builder,Tata housing,1800,2500.0,1838888.888888889,1.8388888888888887e-07,Very High
+Godrej Vrikshya,delhi,3,"Mar, 2025","Sector 103, Gurgaon",5250000000000.0,4,7770000000.0,,,Builder,Godrej Properties,2000,2500.0,2625000.0,2.625e-07,Very High
+Ashiana Amarah,delhi,3,"Jun,2026","Sector 93, Gurgaon",2500000000000.0,4,3730000000.0,,,Builder,Godrej Properties,1600,2500.0,1562500.0,1.5625e-07,Very High
+Signature Global Daxin Vistas,delhi,3,"Jun,2010","Sohna, Gurgaon",1950000000000.0002,,,,,Builder,Tata housing,1500,1834.765625,1300000.0000000002,1.3e-07,Very High
+Keystone Seasons,delhi,3,"May,2025","Sector 77, Gurgaon",3000000000000.0,4,3930000000.0,,,Builder,Emaar India,1350,1834.765625,2222222.222222222,2.2222222222222224e-07,Very High
+M3M Antalya Hills,delhi,2,"Mar,2023","Sector 79, Gurgaon",1710000000000.0,4,3080000000.0,,,Builder,Emaar India,1050,1834.765625,1628571.4285714286,1.6285714285714287e-07,Very High
+Smartworld One DXP,delhi,2,"Nov,2023","Sector 113, Gurgaon",3580000000000.0,3,5300000000.0,,,Builder,Unitech Group,1200,1800.0,2983333.3333333335,2.983333333333333e-07,Very High
+Elite X,delhi,3,"May,2025","Sector 10 Greater Noida West, Greater Noida",1850000000000.0,3,3790000000.0,4,6790000000.0,Builder,Omaxe Ltd,1500,2500.0,1233333.3333333333,1.2333333333333335e-07,Very High
+Signature Global Titanium SPR,delhi,3,"Jun,2027","Sector 71, Gurgaon",5000000000000.0,4,6610000000.0,,,Builder,Godrej Properties,2000,1834.765625,2500000.0,2.5e-07,Very High
+Silverglades The Legacy,delhi,3,"Aug, 2026","Sector 63A, Gurgaon",6440000000000.0,4,10200000000.0,5,14910000000.0,Builder,Sobha Ltd,2200,1834.765625,2927272.727272727,2.927272727272727e-07,Very High
+Eldeco La Vida Bella,delhi,2,"Dec,2025","Greater Noida West, Greater Noida",1430000000000.0,3,2500000000.0,5,3960000000.0,Builder,Godrej Properties,1200,1834.765625,1191666.6666666667,1.1916666666666667e-07,Very High
+Tulip Crimson,delhi,4,"Jul,2025","Sector 70, Gurgaon",10000000000000.0,3,1990000000.0,,,Builder,Omaxe Ltd,3000,1834.765625,3333333.3333333335,3.3333333333333335e-07,Very High
+Sam Palm Olympia Phase 2,delhi,2,"Jan,2026","Sector 16C, Greater Noida",940000000000.0001,3,1990000000.0,,,Builder,Omaxe Ltd,1200,1834.765625,783333.3333333335,7.833333333333335e-08,Very High
+Experion Elements,delhi,3,"Jun,2027","Sector 45, Noida",4960000000000.0,4,5930000000.0,,,Builder,Tata Housing,1800,1834.765625,2755555.5555555555,2.7555555555555555e-07,Very High
+M3M Altitude,delhi,4,"Jan, 2027","Sector 65, Gurgaon",8720000000000.0,5,10030000000.0,,,Builder,Unitech Group,3000,1834.765625,2906666.6666666665,2.906666666666667e-07,Very High
+Conscient Parq,delhi,3,"Dec,2024","Sector 80, Gurgaon",3200000000000.0,4,5580000000.0,,,Builder,Sobha Ltd,1500,1834.765625,2133333.3333333335,2.1333333333333334e-07,Very High
+Gaur NYC Residences,delhi,4,"Dec,2025","Wave City, Ghaziabad",2210000000000.0,5,5000000000,,,Builder,Tata housing,2500,1834.765625,884000.0,8.84e-08,Very High
+ATS Sanctuary 105,delhi,3,"Jun,2025","Sector 105, Gurgaon",2400000000000.0,4,3640000000.0,,,Builder,Emaar India,1500,1834.765625,1600000.0,1.6e-07,Very High
+Sobha Altus,delhi,3,"Mar,2025","Sector 106, Gurgaon",1630000000000.0,4,8610000000.0,,,Builder,Emaar India,1800,1834.765625,905555.5555555555,9.055555555555555e-08,Very High
+Master Orchard Estate,kolkata,2,"Dec, 2020","Madhyamgram, Kolkata",450000000000.0,3,610000000.0,,,Builder,Master Properties,1000,1200.0,450000.0,4.5e-08,Very High

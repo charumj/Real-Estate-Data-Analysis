@@ -1,0 +1,120 @@
+city,location,price range1
+,,
+Chennai,"Chettipunniyam, Chennai",0.3
+Chennai,"Guduvancheri, Chennai",1.32
+Chennai,"Guindy, GST Road",3.18
+Chennai,"K K Nagar, Nesapakkam, Chennai",2.89
+Chennai,"Kattupakkam, Chennai",0.6
+Chennai,"Kelambakkam, Chennai",0.57
+Chennai,"Kovur, Chennai",0.66
+Chennai,"Madipakkam, Chennai",2.18
+Chennai,"Manapakkam, Chennai",0.9
+Chennai,"Medavakkam, Chennai",0.953333333
+Chennai,"Pallikaranai, Chennai",0.9
+Chennai,"Perambur, Chennai",1.03
+Chennai,"Perumbakkam, Chennai South",0.77
+Chennai,"Perungudi, Chennai",0.53
+Chennai,"Porur, Chennai",2.11
+Chennai,"Sholinganallur, Chennai",0.9
+Chennai,"Tharapakkam, Chennai",0.86
+Chennai,"Thirumudivakkam, Chennai",0.72
+Chennai,"Thiruverkadu, Chennai",0.53
+Chennai,"Valasaravakkam, Chennai",1.56
+Chennai,"Velachery, Chennai South",2.34
+Chennai,"West Tambaram, Chennai",0.49
+ahmedabad,"Bodakdev, Ahmedabad",6.606666667
+ahmedabad,"Bopal, Ahmedabad",1.4
+ahmedabad,"Chandkheda, Ahmedabad",1.27
+ahmedabad,"Ghatlodia, Ahmedabad",1.35
+ahmedabad,"Gota, Ahmedabad",1.92
+ahmedabad,"Greater Thol, Rancharda, Ahmedabad",2.38
+ahmedabad,"Jagatpur, Ahmedabad",2.3
+ahmedabad,"Koteshwar, Ahmedabad",1.37
+ahmedabad,"Motera, Ahmedabad",0.625
+ahmedabad,"Rancharda, Ahmedabad",2.64
+ahmedabad,"Sarkhej, Sarkhej Okaf, Ahmedabad",0.39
+ahmedabad,"Satellite, Ahmedabad",1.79
+ahmedabad,"Shahibaug, Ahmedabad",3
+ahmedabad,"Thaltej Shilaj Road, Ahmedabad",4.3
+ahmedabad,"Thaltej, Ahmedabad",2.126666667
+ahmedabad,"Vaishnodevi Circle, Ahmedabad North",2.87
+ahmedabad,"Visalpur, Ahmedabad",0.38
+ahmedabad,"Zundal, Ahmedabad",0.83
+banglore,"8th Phase JP Nagar, Bangalore",0.89
+banglore,"Bagalur, Bangalore",0.8
+banglore,"Begur, Bangalore",1.23
+banglore,"Budigere Cross, Bangalore",2.57
+banglore,"Electronic City, Bangalore",0.68
+banglore,"Hebbal, Bangalore",2
+banglore,"Hosur Road, Bangalore",1.1
+banglore,"Kogilu, Bellari Road",1
+banglore,"Sarjapur Road, Bangalore",1.368333333
+banglore,"Thanisandra, Bangalore",1.31
+banglore,"Vidyaranyapura, Bangalore",2.035
+banglore,"Whitefield, Bangalore",1.938571429
+banglore,"Yelahanka, Bangalore",1.01
+delhi,"Greater Noida West, Greater Noida",1.43
+delhi,"Sector 10 Greater Noida West, Greater Noida",1.85
+delhi,"Sector 103, Gurgaon",5.25
+delhi,"Sector 105, Gurgaon",2.4
+delhi,"Sector 106, Gurgaon",1.63
+delhi,"Sector 113, Gurgaon",3.785
+delhi,"Sector 16C, Greater Noida",0.94
+delhi,"Sector 45, Noida",4.96
+delhi,"Sector 63A, Gurgaon",6.44
+delhi,"Sector 65, Gurgaon",8.72
+delhi,"Sector 70, Gurgaon",10
+delhi,"Sector 71, Gurgaon",5
+delhi,"Sector 77, Gurgaon",3
+delhi,"Sector 79, Gurgaon",1.71
+delhi,"Sector 80, Gurgaon",3.2
+delhi,"Sector 85, Gurgaon",3.31
+delhi,"Sector 93, Gurgaon",2.5
+delhi,"Sohna, Gurgaon",1.95
+delhi,"Wave City, Ghaziabad",2.21
+hyderabad,"Attapur,Gudimalkapur, Hyderabad",2.05
+hyderabad,"Bachupally, Hyderabad",0.713333333
+hyderabad,"Gachibowli, Hyderabad",5.35
+hyderabad,"Jubilee Hills, Hyderabad",10.51
+hyderabad,"KPHB, Kukatpally",2.43
+hyderabad,"Kadthal, Hyderabad",0.3
+hyderabad,"Kokapet, Hyderabad",3.2725
+hyderabad,"Kollur, Hyderabad",1
+hyderabad,"Kondapur, Hyderabad",1.38
+hyderabad,"Nagole, Ring Road",0.72
+hyderabad,"Nanakramguda, Hyderabad",2
+hyderabad,"Nizampet, Hyderabad",0.76
+hyderabad,"Patancheru, Hyderabad",2.5
+hyderabad,"Rajendra Nagar, Hyderabad",0.97
+hyderabad,"Shad nagar, Hyderabad",0.89
+hyderabad,"Shaikpet, Hyderabad",2.19
+hyderabad,"Tellapur, Hyderabad",1.416666667
+kolkata,"8th Phase JP Nagar, Bangalore",0.89
+kolkata,"BT Road, Kolkata",0.64
+kolkata,"Baruipur, EM Bypass",0.213333333
+kolkata,"Garia, Kolkata",0.77
+kolkata,"Joka, Kolkata",0.646666667
+kolkata,"Konnagar, Kolkata",0.2
+kolkata,"Lake Town, Kolkata",1.5
+kolkata,"Madhyamgram, Kolkata",0.49
+kolkata,"New Town, Kolkata",0.946666667
+kolkata,"Picnic Garden, EM Bypass",0.8
+kolkata,"Rajarhat, Kolkata",0.834
+kolkata,"Santragachi, Kolkata",0.44
+kolkata,"Tollygunge, Kolkata",0.65
+mumbai,"Andheri East, Mumbai",1.39
+mumbai,"Bandra Kurla Complex, Mumbai",1.45
+mumbai,"Borivali West, Mumbai",2.295
+mumbai,"Chembur, Mumbai",2.493333333
+mumbai,"Mahalaxmi, Mumbai",11.0675
+mumbai,"Mahim West, Mumbai",3.1
+mumbai,"Marol, Mumbai",2.53
+mumbai,"Matunga East, Mumbai",2.6
+mumbai,"Matunga West, Mumbai",3.67
+mumbai,"Matunga, Mumbai",3.96
+mumbai,"Mulund East, Mumbai",2.24
+mumbai,"Mulund West, Mumbai",3.186666667
+mumbai,"Prabhadevi, Mumbai",13.71
+mumbai,"Santacruz East, Mumbai",2
+mumbai,"Wadala East, Mumbai",3.16
+mumbai,"Wadala, Mumbai",5.03
